@@ -10,4 +10,7 @@
 
 ## What have we covered 
 ---
-- ()[]
+- [linked list](linked list.ipynb)
+- [stacks and queues](stacks and queues.ipynb)
+- []
+---
