@@ -7,3 +7,7 @@
 ## Requirements
     You only need to install jupyter notebook or pycharm or any IDE that you prefer.
     A good command over the basis python programming.
+
+## What have we covered 
+---
+- ()[]
