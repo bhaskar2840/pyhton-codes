@@ -10,7 +10,7 @@
 
 ## What have we covered 
 ---
-- [linked list](linked list.ipynb)
-- [stacks and queues](stacks and queues.ipynb)
-- []
+- [graph](graph.ipynb)
+- [linked list](linked%20list.ipynb)
+
 ---
