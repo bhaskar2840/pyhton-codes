@@ -2,7 +2,7 @@
 ---
 ## Motivation.
 - I made this file to give the first time learners a complete guide with the main Data Structures and algo course.
-- This repo. will give them the knowledge of the pyhton Data Structures along with the most asked question in the interviews.
+- This repo. will give them the knowledge of the pyhton Data Structure
 
 ## Requirements
     You only need to install jupyter notebook or pycharm or any IDE that you prefer.
