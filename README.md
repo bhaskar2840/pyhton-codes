@@ -14,5 +14,6 @@
 - [graph](graph.ipynb)
 - [linked list](linked%20list.ipynb)
 - [dictionary and hashmap](dictionary%20and%20hashmap.ipynb)
+- [bst](bst%20new.ipynb)
 
 ---
